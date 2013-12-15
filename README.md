@@ -1,3 +1,5 @@
+[Check the discusion too: https://news.ycombinator.com/item?id=6879667]
+
 websocketd
 ==========
 
